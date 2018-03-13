@@ -17,10 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
     //你好从这里开始平息恩
-    
-    
+
 }
 
 
